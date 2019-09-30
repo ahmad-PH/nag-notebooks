@@ -1,0 +1,9 @@
+means: 
+          train_loss,           valid_loss,           validation,  targeted_validation,           div_metric,              entropy,            fool_loss
+                9.67,                 9.79,                0.673,               0.0002,             4.25e+02,                 7.74,                 9.79
+
+bests: 
+          train_loss,           valid_loss,           validation,  targeted_validation,           div_metric,              entropy,            fool_loss
+                 min,                  min,                  max,                  max,                  max,                  max,                  min
+                8.65,                 8.82,                0.817,                0.001,             5.41e+02,                  8.6,                 8.82
+                   1,                    1,                    1,                    1,                    6,                    7,                    1

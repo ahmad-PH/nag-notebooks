@@ -1,0 +1,2 @@
+epoch,train_loss,valid_loss,validation,targeted_validation,div_metric,entropy,fool_loss,time
+0,3.201905,3.434795,0.741000,0.510000,453.750000,7.370380,3.434794,04:08
